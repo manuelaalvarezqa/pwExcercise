@@ -51,6 +51,7 @@ test('Locators',async ({page})=>{
 //page.waitForTimeout(5000)
    
 
+
  //  await page.close()*/
 
 })
